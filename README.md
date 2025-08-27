@@ -1,4 +1,4 @@
-# CMDBA : Detection and Mitigation of Backdoor Attacks by Contribution Measurement in Vertical Federated Learning
+# XDM-VFL: Explainable Detection and Mitigation Against Backdoor Attacks in Vertical Federated Learning
 
 This repository implements a **Vertical Federated Learning (VFL)** training pipeline with pluggable backdoor **attacks** and **defenses**. The main entry point is **`train_new.py`**, which trains a VFL model (clean or poisoned), optionally applies a defense, and evaluates on clean/poisoned test sets.
 
